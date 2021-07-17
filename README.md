@@ -12,6 +12,8 @@ https://github.com/alex000kim/nsfw_data_scraper
 
 https://github.com/EBazarov/nsfw_data_source_urls
 
+https://archive.org/details/NudeNet_classifier_dataset_v1
+
 ## nsfw_data
 
 - Drawing   绘画，无害的艺术，或艺术绘画
